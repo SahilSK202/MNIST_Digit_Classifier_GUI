@@ -18,7 +18,7 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 6
     * Validation Score: 98.03%
     * Testing Score: 98.0%
 
-![]https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/9.jpg)
+![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/9.jpg)
 
 
 ## GUI Features :
@@ -39,17 +39,17 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 6
 ![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/3.jpg)
 
 ## Save Image
-![]https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/4.jpg)
+![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/4.jpg)
 
 ## Saved Image
-![]https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/5.jpg)
+![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/5.jpg)
 
 ## Predicting saved image
-![]https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/6.jpg)
-![]https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/7.jpg)
+![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/6.jpg)
+![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/7.jpg)
 
 ## paste link of Image and predict
-![]https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/8.jpg)
+![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/8.jpg)
 
 
 ## Further Improvements
