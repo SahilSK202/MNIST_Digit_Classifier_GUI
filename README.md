@@ -18,7 +18,7 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 5
     * Validation Score: 98.03%
     * Testing Score: 98.0%
 
-![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/9.jpg)
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/9.jpg" width="600" height="500">
 
 
 ## GUI Features :
@@ -32,25 +32,25 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 5
 # Demo
 
 ## First Look
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/1.jpg" width="300" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/1.jpg" width="350" height="500">
 <!-- ![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/1.jpg) -->
 
 ## Draw and Predict
-![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/2.jpg)
-![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/3.jpg)
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/2.jpg" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/3.jpg" width="350" height="500">
 
 ## Save Image
-![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/4.jpg)
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/4.jpg" width="350" height="500">
 
 ## Saved Image
-![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/5.jpg)
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/5.jpg" width="350" height="500">
 
 ## Predicting saved image
-![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/6.jpg)
-![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/7.jpg)
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/6.jpg" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/7.jpg" width="350" height="500">
 
 ## paste link of Image and predict
-![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/8.jpg)
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/8.jpg" width="350" height="500">
 
 
 ## Further Improvements
