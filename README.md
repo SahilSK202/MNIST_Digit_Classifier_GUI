@@ -43,7 +43,7 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 5
 <img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/4.jpg" width="350" height="500">
 
 ## Saved Image
-<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/5.jpg" width="350" height="500">
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/5.jpg" width="350" height="350">
 
 ## Predicting saved image
 <img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/6.jpg" width="350" height="500">
