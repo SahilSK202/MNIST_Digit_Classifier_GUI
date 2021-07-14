@@ -4,7 +4,7 @@
 This is a deep learning project where we have classfied hand written digits using simple ANN. <br><br>GUI is made using python Tkinter where we can draw a digit, upload a photo and also paste the link of the image consisting of a digit and ANN model will display the predicted digit.
 
 # Dataset - tensorflow.keras.datasets.mnist
-MNIST is a dataset of handwritten digit images consisting of a training set of 60,000 images and a test set of 10,000 images. Each example is a 28x28 grayscale image, associated with a label from 10 classes ( 0 - 9 )
+MNIST is a dataset of handwritten digit images consisting of a training set of 50,000 images and a test set of 10,000 images. Each example is a 28x28 grayscale image, associated with a label from 10 classes ( 0 - 9 )
 
 
 ## Experiment Results:
@@ -32,7 +32,8 @@ MNIST is a dataset of handwritten digit images consisting of a training set of 6
 # Demo
 
 ## First Look
-![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/1.jpg)
+<img src="https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/1.jpg" width="300" height="500">
+<!-- ![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/1.jpg) -->
 
 ## Draw and Predict
 ![](https://github.com/SahilSK202/MNIST_Digit_Classifier_GUI/blob/main/Output/2.jpg)
