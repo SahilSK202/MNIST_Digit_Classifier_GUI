@@ -1,7 +1,5 @@
 # MNIST - Handwritten Digit Classifier with GUI with TKINTER
 
-### [ Click here to View MNIST - A Flutter Application ](https://github.com/SahilSK202/MNIST_Flutter_Application)
-
 This is a deep learning project where we have classfied hand written digits using simple ANN. <br><br>GUI is made using python Tkinter where we can draw a digit, upload a photo and also paste the link of the image consisting of a digit and ANN model will display the predicted digit.
 
 # Dataset - tensorflow.keras.datasets.mnist
@@ -61,4 +59,5 @@ There are lot of things to improve upon
 - More data can be provided.
 
 
+### [ Click here to View MNIST - A Flutter Application ](https://github.com/SahilSK202/MNIST_Flutter_Application)
 
